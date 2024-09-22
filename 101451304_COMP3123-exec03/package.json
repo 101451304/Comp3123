@@ -1,0 +1,17 @@
+{
+  "name": "comp3123",
+  "version": "1.0.0",
+  "description": "Sample nodejs app",
+  "main": "dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "server",
+    "week03"
+  ],
+  "author": "Hamza Khan",
+  "license": "ISC"
+}
